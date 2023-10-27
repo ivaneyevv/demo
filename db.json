@@ -17,27 +17,27 @@
       "courseName": "Node.js",
       "courseDescription": "none",
       "courseDuration": "8h" 
-    },
+    }
   ],
   "edu": [
     { 
       "id": 1, 
       "name": "Web-services", 
       "duration": "24h",
-      "tasks": "8",
+      "tasks": "8"
     },
     { 
       "id": 1, 
       "name": "SA", 
       "duration": "24h",
-      "tasks": "6",
+      "tasks": "6"
     },
     { 
       "id": 1, 
       "name": "Stats", 
       "duration": "64h",
-      "tasks": "12",
-    },
+      "tasks": "12"
+    }
   ],
   "skillbox": [
     { 
