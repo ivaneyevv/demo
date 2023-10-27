@@ -1,14 +1,49 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "coursera": [
+    { 
+      "id": 1,
+      "courseName": "RESTful API",
+      "courseDescription": "none",
+      "courseDuration": "22h" 
+    },
+    { 
+      "id": 2,
+      "courseName": "UX Research",
+      "courseDescription": "none",
+      "courseDuration": "48h" 
+    },
+    { 
+      "id": 3,
+      "courseName": "Node.js",
+      "courseDescription": "none",
+      "courseDuration": "8h" 
+    },
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+  "edu": [
+    { 
+      "id": 1, 
+      "name": "Web-services", 
+      "duration": "24h",
+      "tasks": "8",
+    },
+    { 
+      "id": 1, 
+      "name": "SA", 
+      "duration": "24h",
+      "tasks": "6",
+    },
+    { 
+      "id": 1, 
+      "name": "Stats", 
+      "duration": "64h",
+      "tasks": "12",
+    },
   ],
-  "profile": {
-    "name": "typicode"
-  }
+  "skillbox": [
+    { 
+      "id": 1, 
+      "body": "some comment", 
+      "postId": 1 
+    },
+  ]
 }
